@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1406073580/LD_LIBRARY_PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1406073580/LD_LIBRARY_PATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1406073580/LD_LIBRARY_PATH/value=${workspace_loc}/tp-2018-2c-RogerThat/S-AFA/lib
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1406073580/append=true
+environment/project/cdt.managedbuild.config.gnu.exe.debug.1406073580/appendContributed=true
